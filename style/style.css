@@ -41,3 +41,40 @@ line-height: 95px;
 letter-spacing: 0%;
 }
 /* banner section end */
+/* 65-off-content start */
+.off-container{
+    margin-bottom: 200px;
+}
+.off-content{
+    width: 802px;
+    height: 735px;
+    /* border: 2px solid red; */
+    margin: 0 auto;
+}
+.off-text{
+    text-align: center;
+    padding-top: 10px;
+}
+.off-text h1{
+    color: rgb(255, 0, 0);
+    font-size: 88px;
+    font-weight: 700;
+    line-height: 107px;
+    letter-spacing: 0%;
+}
+.off-text p{
+    color: rgb(255, 0, 0);
+font-family: Inter;
+font-size: 16px;
+font-weight: 500;
+line-height: 29px;
+letter-spacing: 0%;
+}
+.off-text h2{
+color: rgb(7, 2, 17);
+font-size: 38px;
+font-weight: 700;
+line-height: 58px;
+letter-spacing: 0%;
+text-align: center;
+}
