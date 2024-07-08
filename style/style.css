@@ -48,7 +48,6 @@ letter-spacing: 0%;
 .off-content{
     width: 802px;
     height: 735px;
-    /* border: 2px solid red; */
     margin: 0 auto;
 }
 .off-text{
@@ -77,4 +76,53 @@ font-weight: 700;
 line-height: 58px;
 letter-spacing: 0%;
 text-align: center;
+}
+/* 65-off-content end */
+/* banner-2 section start */
+.banner-2-container{
+    margin-bottom: 200px;
+}
+.banner-2-content{
+width: 1320px;
+height: 600px;
+margin: 0 auto;
+background-image:linear-gradient(90.00deg, rgba(7, 2, 17, 0.521),rgba(7, 2, 17, 0) 100%),url(/images/Vectorrr.png);
+display: flex;
+}
+.banner-2-text{
+    width: 50%;
+    height: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-left: 150px;
+}
+.banner-2-text h1{
+color: rgb(255, 255, 255);
+font-family: Merriweather;
+font-size: 64px;
+font-weight: 900;
+line-height: 78px;
+letter-spacing: 11%;
+text-align: left;
+}
+.banner-2-text p{
+    color: rgba(255, 255, 255, 0.8);
+font-family: Inter;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0%;
+text-align: left;
+}
+.banner-2-img{
+    text-align: center;
+    width: 50%;
+    height: 100%;
+}
+.banner-2-img img{
+    width: 340px;
+    height: 468px;
+    padding-top: 80px;
 }
