@@ -126,3 +126,43 @@ text-align: left;
     height: 468px;
     padding-top: 80px;
 }
+/* time and date section start */
+.time-container{
+    margin-bottom: 200px;
+}
+.time-content{
+ width: 1320px;
+height: 600px;
+margin: 0 auto;
+background-color: #ffecece7;
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+}
+.time-text h3{
+font-size: 32px;
+font-weight: 600;
+line-height: 56px;
+letter-spacing: 0%;
+text-align: center;
+text-transform: capitalize;
+}
+.time-text span{
+    color: red;
+}
+.a-tag{
+    margin-top: 30px;
+}
+.a-tag a{
+    text-decoration: none;
+    text-align: center;
+    padding: 20px;
+    border-radius: 8px;
+    background: rgb(255, 0, 0);
+    border: 2px solid ;
+    color: white;
+    text-transform: uppercase;
+
+}
+/* time and date section end */
