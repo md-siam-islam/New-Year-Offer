@@ -86,7 +86,7 @@ text-align: center;
 width: 1320px;
 height: 600px;
 margin: 0 auto;
-background-image:linear-gradient(90.00deg, rgba(7, 2, 17, 0.521),rgba(7, 2, 17, 0) 100%),url(/images/Vectorrr.png);
+background-image:linear-gradient(90.00deg, rgba(7, 2, 17, 0.521),rgba(7, 2, 17, 0) 100%),url(./images/Vectorrr.png);
 display: flex;
 }
 .banner-2-text{
